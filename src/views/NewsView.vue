@@ -23,6 +23,6 @@ h2{
     padding-bottom: 20px;
 }
 p{
-    text-align: center;
+    text-align: left;
 }
 </style> 

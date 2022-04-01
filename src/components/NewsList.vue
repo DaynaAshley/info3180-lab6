@@ -88,8 +88,11 @@ ul{
     border-bottom-right-radius: 5px;  
 }
 
+p{
+    text-align: left;
+}
 #info{
     padding: 15px;
-   text-align: left;
+    text-align: left;
 }
 </style>
