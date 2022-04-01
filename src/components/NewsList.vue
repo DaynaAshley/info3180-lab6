@@ -13,7 +13,6 @@
               <img v-bind:src= article.urlToImage />
               <div id="info">
                     <h5> {{ article.title }}</h5>
-                    <p><i> {{ article.author}}</i></p>
                     <p> {{ article.description}}</p>
                </div>
         </li>            
